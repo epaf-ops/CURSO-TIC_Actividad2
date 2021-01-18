@@ -85,7 +85,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Actividad_2"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="45"></int>
+  <int value="46"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="27"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -159,7 +159,7 @@
          <instance class="exe.engine.field.TextAreaField" reference="3">
           <dictionary>
            <string role="key" value="_id"></string>
-           <unicode value="113_2"></unicode>
+           <unicode value="109_2"></unicode>
            <string role="key" value="_idevice"></string>
            <reference key="1"></reference>
            <string role="key" value="_instruc"></string>
@@ -168,29 +168,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
-           <string role="key" value="anchors_linked_from_fields"></string>
-           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
-&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;resources/multimediaYdiseno.gif&quot; alt=&quot;&quot; width=&quot;586&quot; height=&quot;268&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;En esta actividad se observarán herramientas  digitales adecuadas para el desarrollo y creación de materiales para presentar información. Se ofrecen sugerencias para su elaboración, las cuales tendrán acceso a ellas por medio de enlaces a la Web.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;Explora la información&lt;/strong&gt; que se te otorga, tanto directamente&lt;strong&gt; en la pantalla como a través de textos realzados en &lt;span style=&quot;color: #3366ff;&quot;&gt;azul&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;img src=&quot;resources/logo_ues.jpg&quot; alt=&quot;&quot; width=&quot;329&quot; height=&quot;168&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Guia_para_actividad.PNG&quot; alt=&quot;&quot; width=&quot;1461&quot; height=&quot;374&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -210,7 +189,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1716"></int>
+                  <int value="1776"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -224,7 +203,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.75"></unicode>
+                <unicode value="45_109_2.0"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -233,63 +212,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="logo_ues.jpg"></string>
+                  <string value="Guia_para_actividad.PNG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\Guia_para_actividad.PNG"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
-                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="warningMsg"></string>
-                  <string value=""></string>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_parent"></string>
-                <reference key="3"></reference>
-                <string role="key" value="_thumbnailResource"></string>
-                <none></none>
-                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="makeThumbnail"></string>
-                <bool value="0"></bool>
-               </dictionary>
-              </instance>
-              <instance class="exe.engine.galleryidevice.GalleryImage">
-               <dictionary>
-                <string role="key" value="_caption"></string>
-                <instance class="exe.engine.field.TextField">
-                 <dictionary>
-                  <string role="key" value="_id"></string>
-                  <int value="1730"></int>
-                  <string role="key" value="_idevice"></string>
-                  <none></none>
-                  <string role="key" value="_instruc"></string>
-                  <string value=""></string>
-                  <string role="key" value="_name"></string>
-                  <string value=""></string>
-                  <string role="key" value="content"></string>
-                  <string value=""></string>
-                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                  <int value="4"></int>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_id"></string>
-                <unicode value="0_113_2.76"></unicode>
-                <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="6">
-                 <dictionary>
-                  <string role="key" value="_idevice"></string>
-                  <reference key="1"></reference>
-                  <string role="key" value="_package"></string>
-                  <reference key="2"></reference>
-                  <string role="key" value="_storageName"></string>
-                  <string value="multimediaYdiseno.gif"></string>
-                  <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\multimediaYdise\xc3\xb1o.gif"></string>
-                  <string role="key" value="checksum"></string>
-                  <string value="19cc4e64a7677f808059c61105d2490e"></string>
+                  <string value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -316,7 +243,255 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="77"></int>
+           <int value="1"></int>
+           <string role="key" value="parentNode"></string>
+           <reference key="4"></reference>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="icon"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="id"></string>
+        <unicode value="45"></unicode>
+        <string role="key" value="ideviceCategory"></string>
+        <unicode value="Text and Tasks"></unicode>
+        <string role="key" value="lastIdevice"></string>
+        <bool value="0"></bool>
+        <string role="key" value="nextFieldId"></string>
+        <int value="3"></int>
+        <string role="key" value="originalicon"></string>
+        <string value=""></string>
+        <string role="key" value="parentNode"></string>
+        <reference key="4"></reference>
+        <string role="key" value="systemResources"></string>
+        <list></list>
+        <string role="key" value="undo"></string>
+        <bool value="1"></bool>
+        <string role="key" value="userResources"></string>
+        <list>
+         <reference key="5"></reference>
+        </list>
+        <string role="key" value="version"></string>
+        <int value="0"></int>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="_attributes"></string>
+        <list>
+         <tuple>
+          <string value="title"></string>
+          <list>
+           <string value="Title"></string>
+           <int value="0"></int>
+           <int value="0"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="category"></string>
+          <list>
+           <string value="Category"></string>
+           <int value="0"></int>
+           <int value="1"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="css-class"></string>
+          <list>
+           <string value="CSS class"></string>
+           <int value="0"></int>
+           <int value="2"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="icon"></string>
+          <list>
+           <string value="Icon"></string>
+           <int value="0"></int>
+           <int value="3"></int>
+          </list>
+         </tuple>
+        </list>
+        <string role="key" value="_author"></string>
+        <string value=""></string>
+        <string role="key" value="_iDeviceDir"></string>
+        <string value="text"></string>
+        <string role="key" value="_purpose"></string>
+        <string value=""></string>
+        <string role="key" value="_tip"></string>
+        <string value=""></string>
+        <string role="key" value="_valid"></string>
+        <bool value="1"></bool>
+        <string role="key" value="class_"></string>
+        <unicode value="text"></unicode>
+        <string role="key" value="edit"></string>
+        <bool value="0"></bool>
+        <string role="key" value="emphasis"></string>
+        <int value="0"></int>
+        <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+        <int value="1"></int>
+        <string role="key" value="fields"></string>
+        <list>
+         <instance class="exe.engine.field.TextAreaField" reference="7">
+          <dictionary>
+           <string role="key" value="_id"></string>
+           <unicode value="113_2"></unicode>
+           <string role="key" value="_idevice"></string>
+           <reference key="6"></reference>
+           <string role="key" value="_instruc"></string>
+           <string value=""></string>
+           <string role="key" value="_name"></string>
+           <string value=""></string>
+           <string role="key" value="anchor_names"></string>
+           <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
+           <string role="key" value="content_w_resourcePaths"></string>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
+&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;resources/multimediaYdiseno.gif&quot; alt=&quot;&quot; width=&quot;676&quot; height=&quot;309&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;En esta actividad se observarán &lt;span style=&quot;color: #800000;&quot;&gt;herramientas  digitales adecuadas para el desarrollo y creación de materiales para presentar información&lt;/span&gt;. Se ofrecen sugerencias para su elaboración, las cuales tendrán acceso a ellas por medio de enlaces a la Web.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;Explora la información&lt;/strong&gt; que se te otorga, tanto directamente&lt;strong&gt; en la pantalla como a través de textos realzados en &lt;span style=&quot;color: #3366ff;&quot;&gt;azul&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/logo_ues.jpg&quot; alt=&quot;&quot; width=&quot;503&quot; height=&quot;258&quot; style=&quot;float: right;&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+           <int value="4"></int>
+           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+           <int value="3"></int>
+           <string role="key" value="htmlTag"></string>
+           <string value="div"></string>
+           <string role="key" value="images"></string>
+           <instance class="exe.engine.galleryidevice.GalleryImages">
+            <dictionary>
+             <string role="key" value=".listitems"></string>
+             <list>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="1772"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="0_113_2.78"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="8">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="6"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="multimediaYdiseno.gif"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\multimediaYdiseno.gif"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="19cc4e64a7677f808059c61105d2490e"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="7"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="1777"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="0_113_2.79"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="9">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="6"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="logo_ues.jpg"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\logo_ues.jpg"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="7"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+             </list>
+             <string role="key" value="idevice"></string>
+             <reference key="7"></reference>
+            </dictionary>
+           </instance>
+           <string role="key" value="intlinks_to_anchors"></string>
+           <dictionary></dictionary>
+           <string role="key" value="nextImageId"></string>
+           <int value="80"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -342,8 +517,8 @@
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
         <list>
-         <reference key="5"></reference>
-         <reference key="6"></reference>
+         <reference key="8"></reference>
+         <reference key="9"></reference>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -368,138 +543,12 @@
      <list></list>
      <string role="key" value="children"></string>
      <list>
-      <instance class="exe.engine.node.Node" reference="9">
+      <instance class="exe.engine.node.Node" reference="12">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Herramientas para Ilustraciones, Íconos, Presentaciones"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="7">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="_attributes"></string>
-           <list>
-            <tuple>
-             <string value="title"></string>
-             <list>
-              <string value="Title"></string>
-              <int value="0"></int>
-              <int value="0"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="category"></string>
-             <list>
-              <string value="Category"></string>
-              <int value="0"></int>
-              <int value="1"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="css-class"></string>
-             <list>
-              <string value="CSS class"></string>
-              <int value="0"></int>
-              <int value="2"></int>
-             </list>
-            </tuple>
-            <tuple>
-             <string value="icon"></string>
-             <list>
-              <string value="Icon"></string>
-              <int value="0"></int>
-              <int value="3"></int>
-             </list>
-            </tuple>
-           </list>
-           <string role="key" value="_author"></string>
-           <string value=""></string>
-           <string role="key" value="_iDeviceDir"></string>
-           <string value="text"></string>
-           <string role="key" value="_purpose"></string>
-           <string value=""></string>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_valid"></string>
-           <bool value="1"></bool>
-           <string role="key" value="class_"></string>
-           <unicode value="text"></unicode>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="0"></int>
-           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-           <int value="1"></int>
-           <string role="key" value="fields"></string>
-           <list>
-            <instance class="exe.engine.field.TextAreaField" reference="8">
-             <dictionary>
-              <string role="key" value="_id"></string>
-              <unicode value="109_2"></unicode>
-              <string role="key" value="_idevice"></string>
-              <reference key="7"></reference>
-              <string role="key" value="_instruc"></string>
-              <string value=""></string>
-              <string role="key" value="_name"></string>
-              <string value=""></string>
-              <string role="key" value="anchor_names"></string>
-              <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
-              <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Existen diferentes niveles de complejidad en el desarrollo de presentación de información. Sin embargo, dada la facilidad de uso que otorgan hoy en día muchas &lt;strong&gt;Apps&lt;/strong&gt;, se puede llevar a cabo el diseño y realización de ilustraciones, íconos o presentaciones con sólo disponer de conocimientos mínimos de informática. &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La evolución del Software ha permitido que podamos utilizar diversos tipos de Apps sin necesitar de conocer lenguajes de programación y sin conocimientos previos de diseño. Además de las conocidas herramientas &lt;strong&gt;Word, PowerPoint, Inspiration, Prezi, &lt;/strong&gt;entre otras, se puede tener acceso en Internet a diversas sugerencias &lt;/span&gt;que permiten convertir las ideas en material, de forma rápida y s&lt;span style=&quot;color: #000000;&quot;&gt;encilla.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-              <int value="4"></int>
-              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-              <int value="3"></int>
-              <string role="key" value="htmlTag"></string>
-              <string value="div"></string>
-              <string role="key" value="images"></string>
-              <instance class="exe.engine.galleryidevice.GalleryImages">
-               <dictionary>
-                <string role="key" value=".listitems"></string>
-                <list></list>
-                <string role="key" value="idevice"></string>
-                <reference key="8"></reference>
-               </dictionary>
-              </instance>
-              <string role="key" value="intlinks_to_anchors"></string>
-              <dictionary></dictionary>
-              <string role="key" value="nextImageId"></string>
-              <int value="5"></int>
-              <string role="key" value="parentNode"></string>
-              <reference key="9"></reference>
-             </dictionary>
-            </instance>
-           </list>
-           <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
-           <string role="key" value="id"></string>
-           <unicode value="29"></unicode>
-           <string role="key" value="ideviceCategory"></string>
-           <unicode value="Text and Tasks"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="nextFieldId"></string>
-           <int value="3"></int>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parentNode"></string>
-           <reference key="9"></reference>
-           <string role="key" value="systemResources"></string>
-           <list></list>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
-           <list></list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
-          </dictionary>
-         </instance>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
           <dictionary>
            <string role="key" value="_title"></string>
@@ -571,85 +620,88 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Existen diferentes niveles de complejidad en el desarrollo de presentación de información. Sin embargo, dada la facilidad de uso que otorgan hoy en día muchas &lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;Apps&lt;/strong&gt;,&lt;/span&gt; se puede llevar a cabo el diseño y realización de &lt;span style=&quot;color: #800000;&quot;&gt;ilustraciones, íconos o presentaciones&lt;/span&gt; con sólo disponer de conocimientos mínimos de informática. &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;La evolución del Software ha permitido que podamos utilizar diversos tipos de Apps sin necesitar de conocer lenguajes de programación y sin conocimientos previos de diseño. Además de las conocidas herramientas &lt;strong&gt;Word, PowerPoint, Inspiration, Prezi, &lt;/strong&gt;entre otras, se puede tener acceso en Internet a diversas sugerencias que permiten convertir las ideas en material, de forma rápida y sencilla.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Te mostramos un carrusel de ejemplos de&lt;/span&gt; &lt;span style=&quot;color: #800000;&quot;&gt;Herramientas en la WEB que puedes utilizar de forma gratuita&lt;/span&gt;, según requieras presentar la información.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
-&lt;h2&gt;Canva&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;Canva&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/canva.png&quot; alt=&quot;&quot; width=&quot;225&quot; height=&quot;225&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/canva.png&quot; alt=&quot;&quot; width=&quot;327&quot; height=&quot;327&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Es un software y sitio web de diseño gráfico y &lt;strong&gt;composición de imágenes&lt;/strong&gt; simplificado. Se puede utilizar de forma gratuita, pero con la alternativa de pagar para tener opciones avanzadas. Entre los diseños que puedes crear tienes logo, posters, flyers, portadas, folletos y publicaciones para redes sociales entre otras cosas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Funciona utilizando tus datos de Google, Facebook o correo y bajo plataformas Windows, Mac, Linux, iOS, Android. Puede ser usada en navegadores como Chrome, Firefox, Edge o Safari y exportar archivos en PNG, PDF, JPG, GIF y video MP4. Es recomendado usarlo en una PC, tiene muchos recursos y sus herramientas te garantizan un trabajo profesional.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Tiene una interfaz intuitiva y fácil de utilizar, con varias plantillas y elementos multimedia que puedes agregar. Se puede bajar de &lt;a href=&quot;https://www.canva.com/&quot;&gt;&lt;strong&gt;https://www.canva.com/&lt;/strong&gt;&lt;/a&gt; y podrás ver cómo utilizar esta herramienta en &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kdE6ZmT_5MI&quot;&gt;https://www.youtube.com/watch?v=kdE6ZmT_5MI&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Es un software y sitio web de diseño gráfico y &lt;strong&gt;composición de imágenes&lt;/strong&gt; simplificado. Se puede utilizar de forma gratuita, pero con la alternativa de pagar para tener opciones avanzadas. Entre los diseños que puedes crear tienes logo, posters, flyers, portadas, folletos y publicaciones para redes sociales entre otras cosas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Funciona utilizando tus datos de Google, Facebook o correo y bajo plataformas Windows, Mac, Linux, iOS, Android. Puede ser usada en navegadores como Chrome, Firefox, Edge o Safari y exportar archivos en PNG, PDF, JPG, GIF y video MP4. Es recomendado usarlo en una PC, tiene muchos recursos y sus herramientas te garantizan un trabajo profesional.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Tiene una interfaz intuitiva y fácil de utilizar, con varias plantillas y elementos multimedia que puedes agregar. Se puede bajar de &lt;a href=&quot;https://www.canva.com/&quot;&gt;&lt;strong&gt;https://www.canva.com/&lt;/strong&gt;&lt;/a&gt; y podrás ver cómo utilizar esta herramienta en &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kdE6ZmT_5MI&quot;&gt;https://www.youtube.com/watch?v=kdE6ZmT_5MI&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Creately&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 24pt;&quot;&gt;Creately&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/creately.png&quot; alt=&quot;&quot; width=&quot;361&quot; height=&quot;203&quot; /&gt; .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/creately.png&quot; alt=&quot;&quot; width=&quot;423&quot; height=&quot;238&quot; style=&quot;float: right;&quot; /&gt; .&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Es una Herramienta para la colaboración en equipo que utiliza &lt;strong&gt;diagramas, imágenes y texto para colaborar en línea&lt;/strong&gt; en tiempo real. Es compatible con más de 50 tipos de diagramas de flujo, mapas mentales, organigramas, diagramas de red, diagramas de Gantt y más. Se utiliza como una pizarra colaborativa. Es una aplicación basada en la nube, por lo que se puede acceder a todos los archivos desde cualquier dispositivo. Se puede usar de una manera muy sencilla y con la cual podrás Exportar diagramas en PNG, JPEG, PDF, SVG, GIF, BMP, ICO, ETC. Se usa en campos desde marketing hasta ingeniería. El plan básico de Creately es gratis. Que permite crear 5 documentos públicos gratuitos y trabajar con hasta 3 colaboradores. La versión que incluye documentos ilimitados tiene un costo adicional. Puedes tener acceso desde &lt;a href=&quot;https://creately.com/es/home/&quot;&gt;https://creately.com/es/home/&lt;/a&gt;. Este es un Video que te muestra cómo utilizarlo:&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5a2cc53sgMs&quot;&gt; https://www.youtube.com/watch?v=5a2cc53sgMs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Es una Herramienta para la colaboración en equipo que utiliza &lt;strong&gt;diagramas, imágenes y texto para colaborar en línea&lt;/strong&gt; en tiempo real. Es compatible con más de 50 tipos de diagramas de flujo, mapas mentales, organigramas, diagramas de red, diagramas de Gantt y más. Se utiliza como una pizarra colaborativa. Es una aplicación basada en la nube, por lo que se puede acceder a todos los archivos desde cualquier dispositivo. Se puede usar de una manera muy sencilla y con la cual podrás Exportar diagramas en PNG, JPEG, PDF, SVG, GIF, BMP, ICO, ETC. Se usa en campos desde marketing hasta ingeniería. El plan básico de Creately es gratis. Que permite crear 5 documentos públicos gratuitos y trabajar con hasta 3 colaboradores. La versión que incluye documentos ilimitados tiene un costo adicional. Puedes tener acceso desde &lt;a href=&quot;https://creately.com/es/home/&quot;&gt;https://creately.com/es/home/&lt;/a&gt;. Este es un Video que te muestra cómo utilizarlo:&lt;a href=&quot;https://www.youtube.com/watch?v=5a2cc53sgMs&quot;&gt; https://www.youtube.com/watch?v=5a2cc53sgMs&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Picktochart&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 24pt;&quot;&gt;Picktochart&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/Piktochart.png&quot; alt=&quot;&quot; width=&quot;383&quot; height=&quot;213&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/Piktochart.png&quot; alt=&quot;&quot; width=&quot;446&quot; height=&quot;248&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Es una herramienta en línea que nos permite &lt;strong&gt;diseñar y crear infografías&lt;/strong&gt; para nuestros proyectos o presentaciones de forma gratuita, es fácil para registrarse y de usar, no lleva mucho tiempo aprender a manejarlo.  La puedes localizar en &lt;a href=&quot;https://piktochart.com/&quot;&gt;https://piktochart.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Cuenta con múltiples opciones para gráficos, dispone de una amplia biblioteca y es un programa que no necesitas tener mucho conocimiento de HTML como a diferencia de otros programas parecidos. Permite exportar la infografía en PNG, JPG, HTML y publicarla en redes sociales. &lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;A través de este enlace se observa cómo utilizar esta herramienta:&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4lo6XPRrg9Q&quot;&gt; https://www.youtube.com/watch?v=4lo6XPRrg9Q&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Es una herramienta en línea que nos permite &lt;strong&gt;diseñar y crear infografías&lt;/strong&gt; para nuestros proyectos o presentaciones de forma gratuita, es fácil para registrarse y de usar, no lleva mucho tiempo aprender a manejarlo.  La puedes localizar en &lt;a href=&quot;https://piktochart.com/&quot;&gt;https://piktochart.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Cuenta con múltiples opciones para gráficos, dispone de una amplia biblioteca y es un programa que no necesitas tener mucho conocimiento de HTML como a diferencia de otros programas parecidos. Permite exportar la infografía en PNG, JPG, HTML y publicarla en redes sociales. A través de este enlace se observa cómo utilizar esta herramienta:&lt;a href=&quot;https://www.youtube.com/watch?v=4lo6XPRrg9Q&quot;&gt; https://www.youtube.com/watch?v=4lo6XPRrg9Q&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Easelly&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 24pt;&quot;&gt;Easelly&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/easelly.jpg&quot; alt=&quot;&quot; width=&quot;385&quot; height=&quot;154&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/easelly.jpg&quot; alt=&quot;&quot; width=&quot;450&quot; height=&quot;180&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Es un atractivo recurso online que nos permite &lt;strong&gt;diseñar, crear y compartir infografías&lt;/strong&gt; de manera sencilla, con un toque profesional. Hay una opción gratuita y otra de pago a la cual tiene acceso otros elementos. Para comenzar a usar Easel.ly solo tienes que registrarte si deseas poder compartir el proyecto. &lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Permite organizar lo aprendido en clase en forma de contenido visual en un espacio reducido. &lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;Este recurso es compatible con todos los sistemas operativos. Una vez acabada la infografía puedes guardarla, y abrirla posteriormente si quieres realizar algún cambio más. Asimismo, Easel.ly también te permite exportarlo como archivo de imagen o compartirlo con otros usuarios en su entorno web o en otras redes.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;La herramienta la puedes encontrar en: &lt;a href=&quot;https://www.easel.ly/&quot;&gt;https://www.easel.ly/&lt;/a&gt;. En este vídeo se explica la forma como utilizarla: &lt;a href=&quot;https://www.youtube.com/watch?v=AiQX-DPe74c&quot;&gt;https://www.youtube.com/watch?v=AiQX-DPe74c&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Es un atractivo recurso online que nos permite &lt;strong&gt;diseñar, crear y compartir infografías&lt;/strong&gt; de manera sencilla, con un toque profesional. Hay una opción gratuita y otra de pago a la cual tiene acceso otros elementos. Para comenzar a usar Easel.ly solo tienes que registrarte si deseas poder compartir el proyecto. Permite organizar lo aprendido en clase en forma de contenido visual en un espacio reducido. Este recurso es compatible con todos los sistemas operativos. Una vez acabada la infografía puedes guardarla, y abrirla posteriormente si quieres realizar algún cambio más. Asimismo, Easel.ly también te permite exportarlo como archivo de imagen o compartirlo con otros usuarios en su entorno web o en otras redes.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; La herramienta la puedes encontrar en: &lt;a href=&quot;https://www.easel.ly/&quot;&gt;https://www.easel.ly/&lt;/a&gt;. En este vídeo se explica la forma como utilizarla: &lt;a href=&quot;https://www.youtube.com/watch?v=AiQX-DPe74c&quot;&gt;https://www.youtube.com/watch?v=AiQX-DPe74c&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Fotojet&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 24pt;&quot;&gt;Fotojet&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/fotojet.png&quot; alt=&quot;&quot; width=&quot;381&quot; height=&quot;203&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/fotojet.png&quot; alt=&quot;&quot; width=&quot;471&quot; height=&quot;251&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;Es una herramienta de diseño gráfico que permite la &lt;strong&gt;edición de fotos y crear collages online&lt;/strong&gt;. Te permite crear increíbles &lt;strong&gt;posters,&lt;/strong&gt; flyers, &lt;strong&gt;comics&lt;/strong&gt;, logotipos, banners, imágenes para redes sociales, &lt;strong&gt;collages,&lt;/strong&gt; memes y tarjetas fotográficas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;Cuenta con varias herramientas fáciles de usar para agregar texto a las imágenes, redimensionar, recortar, rotar. También puede aplicar filtros y otros efectos. Te ofrece más de 900 diseños profesionales, más de 500 plantillas de collages creativos, más de 80 cuadrículas de fotos clásicas y numerosas herramientas de edición de gran potencia. Es una herramienta que sirve para crear algo rápido y de calidad para personas sin habilidades para diseño.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt; Puedes tener acceso a ella a través de &lt;a href=&quot;https://www.fotojet.com/&quot;&gt;https://www.fotojet.com/&lt;/a&gt; y ver cómo funciona por medio de &lt;a href=&quot;https://www.youtube.com/watch?v=WcAuTUwrdrQ&quot;&gt;https://www.youtube.com/watch?v=WcAuTUwrdrQ&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Es una herramienta de diseño gráfico que permite la &lt;strong&gt;edición de fotos y crear collages online&lt;/strong&gt;. Te permite crear increíbles &lt;strong&gt;posters,&lt;/strong&gt; flyers, &lt;strong&gt;comics&lt;/strong&gt;, logotipos, banners, imágenes para redes sociales, &lt;strong&gt;collages,&lt;/strong&gt; memes y tarjetas fotográficas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Cuenta con varias herramientas fáciles de usar para agregar texto a las imágenes, redimensionar, recortar, rotar. También puede aplicar filtros y otros efectos. Te ofrece más de 900 diseños profesionales, más de 500 plantillas de collages creativos, más de 80 cuadrículas de fotos clásicas y numerosas herramientas de edición de gran potencia. Es una herramienta que sirve para crear algo rápido y de calidad para personas sin habilidades para diseño.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; Puedes tener acceso a ella a través de &lt;a href=&quot;https://www.fotojet.com/&quot;&gt;https://www.fotojet.com/&lt;/a&gt; y ver cómo funciona por medio de &lt;a href=&quot;https://www.youtube.com/watch?v=WcAuTUwrdrQ&quot;&gt;https://www.youtube.com/watch?v=WcAuTUwrdrQ&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Sway&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 24pt;&quot;&gt;Sway&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;resources/Sway.png&quot; alt=&quot;&quot; width=&quot;372&quot; height=&quot;266&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/Sway.png&quot; alt=&quot;&quot; width=&quot;429&quot; height=&quot;307&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Office Sway es una novedosa aplicación a utilizarse a través de la Web. Su uso es para expresar las ideas de una manera muy peculiar &lt;strong&gt;en presentaciones&lt;/strong&gt; o proyectos de investigación. Los archivos de Sway se guardan de manera automática en la nube de la aplicación, para que puedas acceder a ellos en cualquier lugar, siempre y cuando tengas acceso a internet. Sin embargo, puedes obtener una vista de tu proyecto en formato Word o PDF.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Se puede obtener por medio del Sitio Web Office Microsoft. &lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Realmente es una forma revolucionaria de realizar presentaciones, que incluso, algunos expertos ya aseguran que esta nueva aplicación puede dejar atrás al clásico PowerPoint debido a su sistema vanguardista de exposición y manera de ver los datos.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Puedes ver cómo funciona en: &lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VYupWotPvzo&quot;&gt;https://www.youtube.com/watch?v=VYupWotPvzo&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Office Sway es una novedosa aplicación a utilizarse a través de la Web. Su uso es para expresar las ideas de una manera muy peculiar &lt;strong&gt;en presentaciones&lt;/strong&gt; o proyectos de investigación. Los archivos de Sway se guardan de manera automática en la nube de la aplicación, para que puedas acceder a ellos en cualquier lugar, siempre y cuando tengas acceso a internet. Sin embargo, puedes obtener una vista de tu proyecto en formato Word o PDF.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Se puede obtener por medio del Sitio Web Office Microsoft. &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Realmente es una forma revolucionaria de realizar presentaciones, que incluso, algunos expertos ya aseguran que esta nueva aplicación puede dejar atrás al clásico PowerPoint debido a su sistema vanguardista de exposición y manera de ver los datos.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Puedes ver cómo funciona en: &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VYupWotPvzo&quot;&gt;https://www.youtube.com/watch?v=VYupWotPvzo&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #800000;&quot;&gt;Otros generadores de carteles, posters, infografías&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;...&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; color: #800000;&quot;&gt;Otros generadores de carteles, posters, infografías&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://www.genial.ly/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Genially.&lt;/strong&gt;&lt;/a&gt; Para crear vídeo-presentaciones, Infografías, e-Pósters, quiz, etc.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://infogram.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Infogram.&lt;/strong&gt;&lt;/a&gt; Genera infografías y reportes. Permite gráficos, imágenes y mapas interactivos. Tiene una opción básica gratuita.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://wigflip.com/automotivator/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Automotivator&lt;/a&gt;&lt;/strong&gt;. Generador de posters de motivación a partir de fotografías propias o de la web. Se elige la fotografía, el color de fondo y el texto que acompañará a la imagen y se genera un poster para guardar en Flickr o en el propio equipo.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://bighugelabs.com/motivator.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Motivator&lt;/a&gt;. &lt;/strong&gt;Generador online de posters de motivación a partir de fotos guardadas en el equipo o alojadas en Internet (Flickr, Facebook, Photobucket, URL). Permite recortar la imagen seleccionada, elegir la orientación (retrato o paisaje), añadirle varios tipos de marcos, seleccionar el color de fondo del poster, escribir el título y editar la frase que acompañará a la imagen. El póster generado se puede guardar en el ordenador, enviar por correo, insertar en una web, foro o blog, etc.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://www.visme.co/es/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Visme &lt;/a&gt;&lt;/strong&gt;es una aplicación online muy completa para crear presentaciones profesionales, banners publicitarios, animaciones, demostraciones de productos, infografías, etc., ideal para aquellos que necesitan comunicar visualmente datos.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://www.genial.ly/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Genially.&lt;/strong&gt;&lt;/a&gt; Para crear vídeo-presentaciones, Infografías, e-Pósters, quiz, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://infogram.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Infogram.&lt;/strong&gt;&lt;/a&gt; Genera infografías y reportes. Permite gráficos, imágenes y mapas interactivos. Tiene una opción básica gratuita.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://wigflip.com/automotivator/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Automotivator&lt;/a&gt;&lt;/strong&gt;. Generador de posters de motivación a partir de fotografías propias o de la web. Se elige la fotografía, el color de fondo y el texto que acompañará a la imagen y se genera un poster para guardar en Flickr o en el propio equipo.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://bighugelabs.com/motivator.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Motivator&lt;/a&gt;. &lt;/strong&gt;Generador online de posters de motivación a partir de fotos guardadas en el equipo o alojadas en Internet (Flickr, Facebook, Photobucket, URL). Permite recortar la imagen seleccionada, elegir la orientación (retrato o paisaje), añadirle varios tipos de marcos, seleccionar el color de fondo del poster, escribir el título y editar la frase que acompañará a la imagen. El póster generado se puede guardar en el ordenador, enviar por correo, insertar en una web, foro o blog, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://www.visme.co/es/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Visme &lt;/a&gt;&lt;/strong&gt;es una aplicación online muy completa para crear presentaciones profesionales, banners publicitarios, animaciones, demostraciones de productos, infografías, etc., ideal para aquellos que necesitan comunicar visualmente datos.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ACQY7ta6KDI&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ACQY7ta6KDI&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;a href=&quot;http://www.glogster.com/edit/glog/?action=glogs_create&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Glogster&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt; Generador de posters y murales multimedia o para imprimir. Permite la construcción de posters utilizando textos, imágenes, vídeos, música y elementos decorativos. Una vez creado el mural, se puede imprimir pulsando sobre él con el botón derecho del ratón. Si se desea insertarlo en una página web, es necesario registrarse (registro gratuito).&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;a href=&quot;http://www.blockposters.com/default.aspx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Block Posters&lt;/strong&gt;&lt;/a&gt; crea posters de todos los tamaños a partir de imágenes y fotografías&lt;strong&gt;.&lt;/strong&gt; Funciona subiendo la imagen deseada desde el propio equipo y dividiendo en tantas cuadrículas como deseemos. Al finalizar obtendremos las cuadrículas en formato PDF para poder imprimirlas.&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://bighugelabs.com/poster.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Big Huge&lt;/a&gt; &lt;/strong&gt;que permite realizar el poster o cartel de una película inventada a partir de una foto tomada de nuestro equipo o de Internet (Flickr, Facebook, Photobucket o una dirección web), elegir el estilo de cartel cinematográfico que queremos y escribir el título, actores y otros créditos de la película. El resultado se puede guardar, insertar en una web, blog, foro, etc. o enviar.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://www.smore.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Smore&lt;/strong&gt;&lt;/a&gt;. Para desarrollar fácilmente contenidos en forma de página web.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://www.glogster.com/edit/glog/?action=glogs_create&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Glogster&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt; Generador de posters y murales multimedia o para imprimir. Permite la construcción de posters utilizando textos, imágenes, vídeos, música y elementos decorativos. Una vez creado el mural, se puede imprimir pulsando sobre él con el botón derecho del ratón. Si se desea insertarlo en una página web, es necesario registrarse (registro gratuito).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://www.blockposters.com/default.aspx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Block Posters&lt;/strong&gt;&lt;/a&gt; crea posters de todos los tamaños a partir de imágenes y fotografías&lt;strong&gt;.&lt;/strong&gt; Funciona subiendo la imagen deseada desde el propio equipo y dividiendo en tantas cuadrículas como deseemos. Al finalizar obtendremos las cuadrículas en formato PDF para poder imprimirlas.&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://bighugelabs.com/poster.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Big Huge&lt;/a&gt; &lt;/strong&gt;que permite realizar el poster o cartel de una película inventada a partir de una foto tomada de nuestro equipo o de Internet (Flickr, Facebook, Photobucket o una dirección web), elegir el estilo de cartel cinematográfico que queremos y escribir el título, actores y otros créditos de la película. El resultado se puede guardar, insertar en una web, blog, foro, etc. o enviar.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://www.smore.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Smore&lt;/strong&gt;&lt;/a&gt;. Para desarrollar fácilmente contenidos en forma de página web.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 14pt;&quot;&gt;...&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;...&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -669,7 +721,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1731"></int>
+                     <int value="1766"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -683,9 +735,9 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.0"></unicode>
+                   <unicode value="43_108_2.6"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="12">
+                   <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
                      <reference key="10"></reference>
@@ -694,7 +746,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="canva.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\canva.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\canva.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5ad0b8d50e143f614269a66cbd544b85"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -721,7 +773,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1732"></int>
+                     <int value="1767"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -735,9 +787,9 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.1"></unicode>
+                   <unicode value="43_108_2.7"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="13">
+                   <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
                      <reference key="10"></reference>
@@ -746,7 +798,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="creately.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\creately.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\creately.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="438df6262b4f856b0698f987ba6d8221"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -773,7 +825,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1733"></int>
+                     <int value="1769"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -787,59 +839,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.2"></unicode>
-                   <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="14">
-                    <dictionary>
-                     <string role="key" value="_idevice"></string>
-                     <reference key="10"></reference>
-                     <string role="key" value="_package"></string>
-                     <reference key="2"></reference>
-                     <string role="key" value="_storageName"></string>
-                     <string value="Piktochart.png"></string>
-                     <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\Piktochart.png"></string>
-                     <string role="key" value="checksum"></string>
-                     <string value="a21f8251d617c9fbf7e70a68ef5ace2b"></string>
-                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                     <int value="2"></int>
-                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                     <int value="2"></int>
-                     <string role="key" value="warningMsg"></string>
-                     <string value=""></string>
-                    </dictionary>
-                   </instance>
-                   <string role="key" value="_parent"></string>
-                   <reference key="11"></reference>
-                   <string role="key" value="_thumbnailResource"></string>
-                   <none></none>
-                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                   <int value="3"></int>
-                   <string role="key" value="makeThumbnail"></string>
-                   <bool value="0"></bool>
-                  </dictionary>
-                 </instance>
-                 <instance class="exe.engine.galleryidevice.GalleryImage">
-                  <dictionary>
-                   <string role="key" value="_caption"></string>
-                   <instance class="exe.engine.field.TextField">
-                    <dictionary>
-                     <string role="key" value="_id"></string>
-                     <int value="1734"></int>
-                     <string role="key" value="_idevice"></string>
-                     <none></none>
-                     <string role="key" value="_instruc"></string>
-                     <string value=""></string>
-                     <string role="key" value="_name"></string>
-                     <string value=""></string>
-                     <string role="key" value="content"></string>
-                     <string value=""></string>
-                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                     <int value="4"></int>
-                    </dictionary>
-                   </instance>
-                   <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.3"></unicode>
+                   <unicode value="43_108_2.8"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="15">
                     <dictionary>
@@ -850,7 +850,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="easelly.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\easelly.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\easelly.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="026994c12ad9417dcd6ef816f245835a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -877,7 +877,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1735"></int>
+                     <int value="1770"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -891,7 +891,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.4"></unicode>
+                   <unicode value="43_108_2.9"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -902,7 +902,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="fotojet.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\fotojet.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\fotojet.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1628452481105cc3c50779e69f082390"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -929,7 +929,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1736"></int>
+                     <int value="1773"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -943,7 +943,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.5"></unicode>
+                   <unicode value="43_108_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -952,9 +952,61 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
+                     <string value="Piktochart.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\Piktochart.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="a21f8251d617c9fbf7e70a68ef5ace2b"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="11"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="1775"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="43_108_2.11"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="18">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="10"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
                      <string value="Sway.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\Sway.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\Sway.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4ce0b8df32a164865bb120b5feb46baf"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -983,9 +1035,9 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="6"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="9"></reference>
+              <reference key="12"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1002,19 +1054,19 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="9"></reference>
+           <reference key="12"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="12"></reference>
             <reference key="13"></reference>
             <reference key="14"></reference>
             <reference key="15"></reference>
             <reference key="16"></reference>
             <reference key="17"></reference>
+            <reference key="18"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1041,13 +1093,13 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="20">
+      <instance class="exe.engine.node.Node" reference="21">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Actividad de Aprendizaje 2. Ejercicio Práctico"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="18">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Uso de Herramientas para Presentar Información"></unicode>
@@ -1106,12 +1158,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="19">
+            <instance class="exe.engine.field.TextAreaField" reference="20">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="108_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="18"></reference>
+              <reference key="19"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1124,12 +1176,15 @@
               <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;img src=&quot;resources/cuestionarios_en_linea.jpg&quot; alt=&quot;&quot; width=&quot;531&quot; height=&quot;531&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;-&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;img src=&quot;resources/Actividad_en_linea.gif&quot; alt=&quot;&quot; width=&quot;718&quot; height=&quot;404&quot; style=&quot;float: right;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #993300;&quot;&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;/span&gt;En forma individual, generar por medio&lt;strong&gt; de alguna APP de tu elección&lt;/strong&gt; de las enlistadas previamente en este material,&lt;strong&gt; una Infografía o presentación multimedia&lt;/strong&gt; a través de la cual puedas explicar conceptos de un tema propio de tu carrera, de una manera gráfica que resulte atractiva.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;/span&gt;En forma individual, generar por medio&lt;strong&gt; de alguna APP de tu elección&lt;/strong&gt; de las enlistadas previamente en este material,&lt;strong&gt; una Infografía o presentación multimedia&lt;/strong&gt; a través de la cual puedas explicar conceptos de un tema propio de tu carrera, de una manera gráfica que resulte atractiva.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Para la realización de esta actividad deberán considerar como recurso principal algunos de los datos que contienen las 5 fuentes (Libro, Artículos, Tesis y Página WEB) identificadas en &lt;strong&gt;Actividad 1. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #993300; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Consideraciones para la preparación de la evidencia:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #800000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Consideraciones para la preparación de la evidencia:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;El diseño general a presentar lo determina cada estudiante.&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Debe estar el Logo de la UES como parte del material.&lt;/span&gt;&lt;/li&gt;
@@ -1139,8 +1194,8 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #993300;&quot;&gt;2.&lt;/span&gt;&lt;/strong&gt; Para la utilización de la App, podrán a&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;poyarse de los vídeos enlistados previamente en este material&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Pkgtr9pAJuluaeuS-sEH1gEMnXiupmpi/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;/a&gt;&lt;/strong&gt; o de algún otro vídeo que se localiza en &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;YouTube.&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/span&gt; Enviar la evidencia de esta actividad, &lt;strong&gt;en formato de imagen &lt;/strong&gt;a través del área establecida para ello en la Plataforma Educativa Virtual Institucional. Para asegurarte que la evidencia contiene todo lo solicitado, verifica la Rúbrica.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/span&gt; Para la utilización de la App, podrán a&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;poyarse de los vídeos enlistados previamente en este material&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Pkgtr9pAJuluaeuS-sEH1gEMnXiupmpi/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;/a&gt;&lt;/strong&gt; o de algún otro vídeo que se localiza en &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;YouTube.&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/span&gt; Enviar la evidencia de esta actividad, &lt;strong&gt;en formato de imagen &lt;/strong&gt;a través del área establecida para ello en la Plataforma Educativa Virtual Institucional. Para asegurarte que la evidencia contiene todo lo solicitado, verifica la Rúbrica de Evaluación.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1160,7 +1215,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1737"></int>
+                     <int value="1778"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1174,20 +1229,20 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.8"></unicode>
+                   <unicode value="42_108_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="21">
+                   <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="18"></reference>
+                     <reference key="19"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="cuestionarios_en_linea.jpg"></string>
+                     <string value="Actividad_en_linea.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\cuestionarios_en_linea.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpjhlqqx.eXe\\previews\\allyourbase\\Actividad_en_linea.gif"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="ce00ffb80c847ec0c5f994df34ce2592"></string>
+                     <string value="90ccb2064e94de74ca2cb64309338fbd"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1197,7 +1252,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="19"></reference>
+                   <reference key="20"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1208,15 +1263,15 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="19"></reference>
+                <reference key="20"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="9"></int>
+              <int value="11"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="20"></reference>
+              <reference key="21"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1233,14 +1288,14 @@
            <string role="key" value="originalicon"></string>
            <unicode value="activity"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="20"></reference>
+           <reference key="21"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="21"></reference>
+            <reference key="22"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1267,13 +1322,13 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="24">
+      <instance class="exe.engine.node.Node" reference="25">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Rúbrica de Evaluación"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="22">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="23">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -1289,12 +1344,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="23">
+           <instance class="exe.engine.field.TextAreaField" reference="24">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="22"></reference>
+             <reference key="23"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -1306,7 +1361,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; src=&quot;resources/Rubrica_de_Presentacion.pdf&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;"></unicode>
+             <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; src=&quot;resources/Rubrica_de_Presentacion.pdf&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1326,7 +1381,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <instance class="exe.engine.field.TextField">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <int value="1738"></int>
+                    <int value="1774"></int>
                     <string role="key" value="_idevice"></string>
                     <none></none>
                     <string role="key" value="_instruc"></string>
@@ -1340,18 +1395,18 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_id"></string>
-                  <unicode value="44_85.0"></unicode>
+                  <unicode value="44_85.1"></unicode>
                   <string role="key" value="_imageResource"></string>
-                  <instance class="exe.engine.resource.Resource" reference="25">
+                  <instance class="exe.engine.resource.Resource" reference="26">
                    <dictionary>
                     <string role="key" value="_idevice"></string>
-                    <reference key="22"></reference>
+                    <reference key="23"></reference>
                     <string role="key" value="_package"></string>
                     <reference key="2"></reference>
                     <string role="key" value="_storageName"></string>
                     <string value="Rubrica_de_Presentacion.pdf"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpfwu9vf.eXe\\previews\\allyourbase\\Rubrica_de_Presentacion.pdf"></string>
+                    <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp4sgtbt\\Rubrica_de_Presentacion.pdf"></string>
                     <string role="key" value="checksum"></string>
                     <string value="d37d2bda96442a2931e7bf4417f8a6ff"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1363,7 +1418,7 @@ text through the text editing buttons associated with the field."></unicode>
                    </dictionary>
                   </instance>
                   <string role="key" value="_parent"></string>
-                  <reference key="23"></reference>
+                  <reference key="24"></reference>
                   <string role="key" value="_thumbnailResource"></string>
                   <none></none>
                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1374,15 +1429,15 @@ text through the text editing buttons associated with the field."></unicode>
                 </instance>
                </list>
                <string role="key" value="idevice"></string>
-               <reference key="23"></reference>
+               <reference key="24"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="1"></int>
+             <int value="2"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="24"></reference>
+             <reference key="25"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -1402,7 +1457,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="24"></reference>
+           <reference key="25"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -1411,7 +1466,7 @@ text through the text editing buttons associated with the field."></unicode>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="25"></reference>
+            <reference key="26"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1442,11 +1497,11 @@ text through the text editing buttons associated with the field."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="2"></unicode>
-   <reference key="9"></reference>
+   <reference key="12"></reference>
    <unicode role="key" value="24"></unicode>
-   <reference key="20"></reference>
+   <reference key="21"></reference>
    <unicode role="key" value="26"></unicode>
-   <reference key="24"></reference>
+   <reference key="25"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -1457,1020 +1512,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="anchor_fields"></string>
   <list></list>
   <string role="key" value="anchor_nodes"></string>
-  <list>
-   <instance class="exe.engine.node.Node">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Diseño Instruccional: Fase 3 Desarrollo"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="12"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Dise%C3%B1o%20Instruccional%20para%20Ambientes%20Virtuales%20Educativos:Dise%C3%B1o%20Instruccional%3A%20Fase%203%20Desarrollo"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <instance class="exe.engine.field.TextAreaField" reference="26">
-       <dictionary>
-        <string role="key" value="_id"></string>
-        <unicode value="108_2"></unicode>
-        <string role="key" value="_idevice"></string>
-        <instance class="exe.engine.jsidevice.JsIdevice">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value="ANTECEDENTES"></unicode>
-          <string role="key" value="_attributes"></string>
-          <list>
-           <tuple>
-            <string value="title"></string>
-            <list>
-             <string value="Title"></string>
-             <int value="0"></int>
-             <int value="0"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="category"></string>
-            <list>
-             <string value="Category"></string>
-             <int value="0"></int>
-             <int value="1"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="css-class"></string>
-            <list>
-             <string value="CSS class"></string>
-             <int value="0"></int>
-             <int value="2"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="icon"></string>
-            <list>
-             <string value="Icon"></string>
-             <int value="0"></int>
-             <int value="3"></int>
-            </list>
-           </tuple>
-          </list>
-          <string role="key" value="_author"></string>
-          <string value=""></string>
-          <string role="key" value="_iDeviceDir"></string>
-          <string value="text"></string>
-          <string role="key" value="_purpose"></string>
-          <string value=""></string>
-          <string role="key" value="_tip"></string>
-          <string value=""></string>
-          <string role="key" value="_valid"></string>
-          <bool value="1"></bool>
-          <string role="key" value="class_"></string>
-          <unicode value="text"></unicode>
-          <string role="key" value="edit"></string>
-          <bool value="0"></bool>
-          <string role="key" value="emphasis"></string>
-          <int value="1"></int>
-          <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-          <int value="1"></int>
-          <string role="key" value="fields"></string>
-          <list>
-           <reference key="26"></reference>
-          </list>
-          <string role="key" value="icon"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="id"></string>
-          <unicode value="27"></unicode>
-          <string role="key" value="ideviceCategory"></string>
-          <unicode value="Text and Tasks"></unicode>
-          <string role="key" value="lastIdevice"></string>
-          <bool value="0"></bool>
-          <string role="key" value="nextFieldId"></string>
-          <int value="3"></int>
-          <string role="key" value="originalicon"></string>
-          <string value=""></string>
-          <string role="key" value="parentNode"></string>
-          <none></none>
-          <string role="key" value="systemResources"></string>
-          <list></list>
-          <string role="key" value="undo"></string>
-          <bool value="1"></bool>
-          <string role="key" value="userResources"></string>
-          <list></list>
-          <string role="key" value="version"></string>
-          <int value="0"></int>
-         </dictionary>
-        </instance>
-        <string role="key" value="_instruc"></string>
-        <string value=""></string>
-        <string role="key" value="_name"></string>
-        <string value=""></string>
-        <string role="key" value="anchor_names"></string>
-        <list></list>
-        <string role="key" value="anchors_linked_from_fields"></string>
-        <dictionary></dictionary>
-        <string role="key" value="content_w_resourcePaths"></string>
-        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El &lt;strong&gt;e-learning autodirigido&lt;/strong&gt; requiere de material diseñado (contenido con gráficos, animaciones y pruebas) para que los alumnos puedan avanzar de forma independiente, así como tener la posibilidad de socializar y debatir en línea. Por lo que la elaboración y preparación de &lt;strong&gt;contenidos interactivos en e-learning debe contener apoyo pedagógico adecuado.&lt;/strong&gt; Su desarrollo puede variar dependiendo de la complejidad del tema, así como de la cantidad y calidad del material.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
-&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Cómo se ha comentado en la Fase de Diseño, Los materiales para un tema pueden ser&lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt; &lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#te685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; id=&quot;linke685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;recursos simples de aprendizaje&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt; (F&lt;/span&gt;otografías, Imágenes, Gráficos, Cuadros, otros materiales ilustrativos) o &lt;span style=&quot;display: inline !important; float: none; background-color: #ffffff; color: #333333; cursor: text; font-family: 'Encode Sans',Arial,Helvetica,sans-serif; font-size: 15.93px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;a href=&quot;#t1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; id=&quot;link1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; class=&quot;exe-tooltip definition-tt&quot; style=&quot;color: #3366ff;&quot;&gt;material de apoyo para el trabajo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt; (Manuales, Folletos, Estudios de Caso, Guías, Material de Referencia como Glosarios, etc.)&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Integracion_de_aplicaciones.gif&quot; alt=&quot;&quot; width=&quot;372&quot; height=&quot;210&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Todos estos materiales deben adaptarse al ambiente de aprendizaje virtual de forma que es importante incluir explicaciones y ejemplos que en su caso normalmente se proporcionan en la clase presencial.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #ff9900;&quot;&gt;&lt;strong&gt;PUNTOS IMPORTANTES A CONSIDERAR:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br /&gt;&lt;img src=&quot;resources/E-learning_de_Calidad.png&quot; alt=&quot;&quot; width=&quot;295&quot; height=&quot;319&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Además, para la preparación se debe tomar en cuenta:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
-&lt;h2&gt;En relación a Información para el contenido&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ofrecer todos los conocimientos necesarios para cumplir con los objetivos de aprendizaje. Incluir información aún que parezca obvia para usted.&lt;/li&gt;
-&lt;li&gt;Usar ejemplos familiares para que los estudiantes puedan entender y recordar conceptos.&lt;/li&gt;
-&lt;li&gt;Establezca información esencial que los alumnos deben entender y otra que podría serle útil para complementar el tema o estimular al estudiante. Trate de evitar información innecesaria.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;En relación al estilo de lenguaje para el contenido&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Escriba de manera simple y clara.&lt;/li&gt;
-&lt;li&gt;Evitar jerga, coloquialismos y ejemplos específicos de alguna cultura.&lt;/li&gt;
-&lt;li&gt;Reduzca al mínimo el uso de oraciones compuestas.&lt;/li&gt;
-&lt;li&gt;Use listas de viñetas cuando corresponda.&lt;/li&gt;
-&lt;li&gt;Explique los acrónimos cuando aparezcan por primera vez.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;En este sentido, para proporcionar el conocimiento requerido en un curso de e-learning debe: (1) &lt;strong&gt;Proveer Documentos y Materiales&lt;/strong&gt;; y/o (2) &lt;strong&gt;Escribir directamente el contenido&lt;/strong&gt; para una lección.&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Nota_de_Tipo_de_Contenido.png&quot; alt=&quot;&quot; width=&quot;460&quot; height=&quot;110&quot; /&gt;&lt;img src=&quot;resources/hombre-pensando.gif&quot; alt=&quot;&quot; width=&quot;111&quot; height=&quot;111&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot; style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;47&quot; height=&quot;48&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-30-70 exe-clear&quot;&gt;
-&lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&quot;te685aef8-a115-5ce8-0bbc-016afc8a39cb&quot; class=&quot;exe-tooltip-text&quot;&gt;
-&lt;p&gt;Recurso que los alumnos solo pueden leer, observar o escuchar el contenido sin realizar otra acción.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&quot;t1abce7ab-ea68-ff13-6c98-3dc12e74070c&quot; class=&quot;exe-tooltip-text&quot;&gt;
-&lt;p&gt;Recurso que ofrece respuesta a preguntas específicas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;"></unicode>
-        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-        <int value="4"></int>
-        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-        <int value="3"></int>
-        <string role="key" value="htmlTag"></string>
-        <string value="div"></string>
-        <string role="key" value="images"></string>
-        <instance class="exe.engine.galleryidevice.GalleryImages">
-         <dictionary>
-          <string role="key" value=".listitems"></string>
-          <list>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1707"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="27_108_2.141"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="E-learning_de_Calidad.png"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\E-learning_de_Calidad.png"></string>
-               <string role="key" value="checksum"></string>
-               <string value="3e6063070fa65faddad8441dcbe75f86"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="26"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1713"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="27_108_2.142"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="hombre-pensando.gif"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\hombre-pensando.gif"></string>
-               <string role="key" value="checksum"></string>
-               <string value="9f9702fedf2acb09b99c695534fe692e"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="26"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1714"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="27_108_2.143"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="Integracion_de_aplicaciones.gif"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\Integracion_de_aplicaciones.gif"></string>
-               <string role="key" value="checksum"></string>
-               <string value="58bebac7d718cc5d84a33ddee58e9e5e"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="26"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1719"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="27_108_2.144"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="Nota_de_Tipo_de_Contenido.png"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\Nota_de_Tipo_de_Contenido.png"></string>
-               <string role="key" value="checksum"></string>
-               <string value="4d3ce48edc4fecb8f1d6c9f868377f95"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="26"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1721"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="27_108_2.145"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="siguiente.jpg"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\siguiente.jpg"></string>
-               <string role="key" value="checksum"></string>
-               <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="26"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-          </list>
-          <string role="key" value="idevice"></string>
-          <reference key="26"></reference>
-         </dictionary>
-        </instance>
-        <string role="key" value="intlinks_to_anchors"></string>
-        <dictionary></dictionary>
-        <string role="key" value="nextImageId"></string>
-        <int value="146"></int>
-        <string role="key" value="parentNode"></string>
-        <instance class="exe.engine.node.Node">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value="Creación de contenidos interactivos para el e-learning"></unicode>
-          <string role="key" value="idevices"></string>
-          <list></list>
-          <string role="key" value="_id"></string>
-          <unicode value="13"></unicode>
-          <string role="key" value="_package"></string>
-          <none></none>
-          <string role="key" value="anchor_fields"></string>
-          <list></list>
-          <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-          <int value="2"></int>
-          <string role="key" value="exportType"></string>
-          <string value="website"></string>
-          <string role="key" value="last_full_node_path"></string>
-          <string value="exe-node:Dise%C3%B1o%20Instruccional%20para%20Ambientes%20Virtuales%20Educativos:Creaci%C3%B3n%20de%20contenidos%20interactivos%20para%20el%20e-learning"></string>
-          <string role="key" value="parent"></string>
-          <none></none>
-          <string role="key" value="top_anchors_linked_from_fields"></string>
-          <list></list>
-          <string role="key" value="children"></string>
-          <list></list>
-         </dictionary>
-        </instance>
-       </dictionary>
-      </instance>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
-   <instance class="exe.engine.node.Node">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Generadores de cuestionarios,  crucigramas, puzzle y otros ejercicios"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="19"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Dise%C3%B1o%20Instruccional%20para%20Ambientes%20Virtuales%20Educativos:Herramientas%20para%20creaci%C3%B3n%20y/o%20edici%C3%B3n%20de%20materiales:Generadores%20de%20cuestionarios%2C%20%20crucigramas%2C%20puzzle%20y%20otros%20ejercicios"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <instance class="exe.engine.field.TextAreaField" reference="27">
-       <dictionary>
-        <string role="key" value="_id"></string>
-        <unicode value="111_2"></unicode>
-        <string role="key" value="_idevice"></string>
-        <instance class="exe.engine.jsidevice.JsIdevice">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="_attributes"></string>
-          <list>
-           <tuple>
-            <string value="title"></string>
-            <list>
-             <string value="Title"></string>
-             <int value="0"></int>
-             <int value="0"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="category"></string>
-            <list>
-             <string value="Category"></string>
-             <int value="0"></int>
-             <int value="1"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="css-class"></string>
-            <list>
-             <string value="CSS class"></string>
-             <int value="0"></int>
-             <int value="2"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="icon"></string>
-            <list>
-             <string value="Icon"></string>
-             <int value="0"></int>
-             <int value="3"></int>
-            </list>
-           </tuple>
-          </list>
-          <string role="key" value="_author"></string>
-          <string value=""></string>
-          <string role="key" value="_iDeviceDir"></string>
-          <string value="text"></string>
-          <string role="key" value="_purpose"></string>
-          <string value=""></string>
-          <string role="key" value="_tip"></string>
-          <string value=""></string>
-          <string role="key" value="_valid"></string>
-          <bool value="1"></bool>
-          <string role="key" value="class_"></string>
-          <unicode value="text"></unicode>
-          <string role="key" value="edit"></string>
-          <bool value="1"></bool>
-          <string role="key" value="emphasis"></string>
-          <int value="0"></int>
-          <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-          <int value="1"></int>
-          <string role="key" value="fields"></string>
-          <list>
-           <reference key="27"></reference>
-          </list>
-          <string role="key" value="icon"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="id"></string>
-          <unicode value="36"></unicode>
-          <string role="key" value="ideviceCategory"></string>
-          <unicode value="Text and Tasks"></unicode>
-          <string role="key" value="lastIdevice"></string>
-          <bool value="1"></bool>
-          <string role="key" value="nextFieldId"></string>
-          <int value="3"></int>
-          <string role="key" value="originalicon"></string>
-          <string value=""></string>
-          <string role="key" value="parentNode"></string>
-          <none></none>
-          <string role="key" value="systemResources"></string>
-          <list></list>
-          <string role="key" value="undo"></string>
-          <bool value="1"></bool>
-          <string role="key" value="userResources"></string>
-          <list></list>
-          <string role="key" value="version"></string>
-          <int value="0"></int>
-         </dictionary>
-        </instance>
-        <string role="key" value="_instruc"></string>
-        <string value=""></string>
-        <string role="key" value="_name"></string>
-        <string value=""></string>
-        <string role="key" value="anchor_names"></string>
-        <list></list>
-        <string role="key" value="anchors_linked_from_fields"></string>
-        <dictionary></dictionary>
-        <string role="key" value="content_w_resourcePaths"></string>
-        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Es importante evaluar las características que debe contener el material para determinar el software específico a utilizar. &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;   &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;                                 &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: right;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-        <int value="4"></int>
-        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-        <int value="3"></int>
-        <string role="key" value="htmlTag"></string>
-        <string value="div"></string>
-        <string role="key" value="images"></string>
-        <instance class="exe.engine.galleryidevice.GalleryImages">
-         <dictionary>
-          <string role="key" value=".listitems"></string>
-          <list></list>
-          <string role="key" value="idevice"></string>
-          <reference key="27"></reference>
-         </dictionary>
-        </instance>
-        <string role="key" value="intlinks_to_anchors"></string>
-        <dictionary></dictionary>
-        <string role="key" value="nextImageId"></string>
-        <int value="20"></int>
-        <string role="key" value="parentNode"></string>
-        <reference key="9"></reference>
-       </dictionary>
-      </instance>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
-   <instance class="exe.engine.node.Node">
-    <dictionary>
-     <string role="key" value="_title"></string>
-     <unicode value="Generadores de cuadernos, libros y publicaciones digitales"></unicode>
-     <string role="key" value="idevices"></string>
-     <list></list>
-     <string role="key" value="_id"></string>
-     <unicode value="17"></unicode>
-     <string role="key" value="_package"></string>
-     <none></none>
-     <string role="key" value="anchor_fields"></string>
-     <list></list>
-     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-     <int value="2"></int>
-     <string role="key" value="exportType"></string>
-     <string value="website"></string>
-     <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Dise%C3%B1o%20Instruccional%20para%20Ambientes%20Virtuales%20Educativos:Herramientas%20para%20creaci%C3%B3n%20y/o%20edici%C3%B3n%20de%20materiales:Generadores%20de%20cuadernos%2C%20libros%20y%20publicaciones%20digitales"></string>
-     <string role="key" value="parent"></string>
-     <none></none>
-     <string role="key" value="top_anchors_linked_from_fields"></string>
-     <list>
-      <instance class="exe.engine.field.TextAreaField" reference="28">
-       <dictionary>
-        <string role="key" value="_id"></string>
-        <unicode value="114_2"></unicode>
-        <string role="key" value="_idevice"></string>
-        <instance class="exe.engine.jsidevice.JsIdevice">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="_attributes"></string>
-          <list>
-           <tuple>
-            <string value="title"></string>
-            <list>
-             <string value="Title"></string>
-             <int value="0"></int>
-             <int value="0"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="category"></string>
-            <list>
-             <string value="Category"></string>
-             <int value="0"></int>
-             <int value="1"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="css-class"></string>
-            <list>
-             <string value="CSS class"></string>
-             <int value="0"></int>
-             <int value="2"></int>
-            </list>
-           </tuple>
-           <tuple>
-            <string value="icon"></string>
-            <list>
-             <string value="Icon"></string>
-             <int value="0"></int>
-             <int value="3"></int>
-            </list>
-           </tuple>
-          </list>
-          <string role="key" value="_author"></string>
-          <string value=""></string>
-          <string role="key" value="_iDeviceDir"></string>
-          <string value="text"></string>
-          <string role="key" value="_purpose"></string>
-          <string value=""></string>
-          <string role="key" value="_tip"></string>
-          <string value=""></string>
-          <string role="key" value="_valid"></string>
-          <bool value="1"></bool>
-          <string role="key" value="class_"></string>
-          <unicode value="text"></unicode>
-          <string role="key" value="edit"></string>
-          <bool value="0"></bool>
-          <string role="key" value="emphasis"></string>
-          <int value="0"></int>
-          <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-          <int value="1"></int>
-          <string role="key" value="fields"></string>
-          <list>
-           <reference key="28"></reference>
-          </list>
-          <string role="key" value="icon"></string>
-          <unicode value=""></unicode>
-          <string role="key" value="id"></string>
-          <unicode value="39"></unicode>
-          <string role="key" value="ideviceCategory"></string>
-          <unicode value="Text and Tasks"></unicode>
-          <string role="key" value="lastIdevice"></string>
-          <bool value="0"></bool>
-          <string role="key" value="nextFieldId"></string>
-          <int value="3"></int>
-          <string role="key" value="originalicon"></string>
-          <string value=""></string>
-          <string role="key" value="parentNode"></string>
-          <none></none>
-          <string role="key" value="systemResources"></string>
-          <list></list>
-          <string role="key" value="undo"></string>
-          <bool value="1"></bool>
-          <string role="key" value="userResources"></string>
-          <list></list>
-          <string role="key" value="version"></string>
-          <int value="0"></int>
-         </dictionary>
-        </instance>
-        <string role="key" value="_instruc"></string>
-        <string value=""></string>
-        <string role="key" value="_name"></string>
-        <string value=""></string>
-        <string role="key" value="anchor_names"></string>
-        <list></list>
-        <string role="key" value="anchors_linked_from_fields"></string>
-        <dictionary></dictionary>
-        <string role="key" value="content_w_resourcePaths"></string>
-        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h2&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;apas conceptuales y mentales&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a title=&quot;Mindomo &quot; href=&quot;http://mindomo.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Mindomo&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;es un generador de una gran variedad de tipos de mapas conceptuales. Debe registrarse para poder guardar los resultados en la computadora.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.mindmeister.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Mindmeister&lt;/strong&gt;&lt;/a&gt;&lt;span&gt; &lt;/span&gt;es una herramienta que permite trabajar colaborativamente en la creación y desarrollo de mapas mentales en tiempo real pero además tiene la opción de importar mapas de Freemind, MindManager o en formato PDF. La modalidad “Basic” es gratuita y requiere registrarse.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a title=&quot;Bubbl.us &quot; href=&quot;http://bubbl.us/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bubbl.us&lt;/strong&gt;&lt;/a&gt;&lt;span&gt;  y &lt;strong&gt;&lt;a href=&quot;https://coggle.it/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Coggle&lt;/a&gt; &lt;/strong&gt;son&lt;/span&gt; aplicaciones online con la que se pueden crear esquemas y mapas mentales de forma gratuita para después imprimirlos o insertarlos en una web.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
-&lt;h2 style=&quot;text-align: justify;&quot;&gt;&lt;/h2&gt;
-&lt;h2 style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;Cómics y dibujos animados&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;img src=&quot;resources/Comics.jpg&quot; alt=&quot;&quot; width=&quot;855&quot; height=&quot;366&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a title=&quot;Stripgenerator&quot; href=&quot;http://stripgenerator.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;a href=&quot;http://www.makebeliefscomix.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Comix&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. &lt;/strong&gt;Generador de historietas en línea para expresar ideas en forma de cómic.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.wittycomics.com/make-comic.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Witty Comics&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;Generador de cómics que permite guardar el resultado en un servidor o en la propia computadora en formato PNG. Requiere registrarse.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.bitstrips.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Bitmoji&lt;/strong&gt;&lt;/a&gt;. Generador de Emojic muy completo. Permite personalizar expresiones, añadir efectos y crear personajes propios, El resultado se puede enviar por email o publicarse en una web. Requiere registrarse.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://pixton.com/es/home&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Pixton&lt;/strong&gt;&lt;/a&gt;&lt;span&gt; &lt;/span&gt;es otro generador de tiras cómicas muy completo y versátil. Permite personalizar los fondos y los personajes, añadirles expresiones y posturas, y acercar o alejar los elementos que conforman cada escena. El resultado se puede enviar por correo o insertarse en una web. Requiere registrarse.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://goanimate.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Vyond&lt;/strong&gt;&lt;/a&gt;&lt;span&gt; &lt;/span&gt;es una herramienta que permite la creación de dibujos animados donde se puede elegir escenarios y personajes, utilizar imágenes propias o añadir sonidos y bocadillos de texto. &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;GIF animados&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
-&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
-&lt;p&gt;&lt;br /&gt;&lt;a href=&quot;https://www.marketingandweb.es/marketing/programas-crear-hacer-gifs-animados/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/como-hacer-un-gif-animado-1.png&quot; alt=&quot;&quot; width=&quot;256&quot; height=&quot;128&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;exe-col exe-col-2&quot;&gt;
-&lt;ol&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #3366ff;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://giphy.com/create/gifmaker/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #3366ff;&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;Giphy GIF Maker&lt;/span&gt; &lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;es un programa fácil de utilizar con el que podrán crear un gif animado a partir de secuencias de imágenes o a partir de un vídeo. Es necesario registrarse.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://gifmaker.me/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;GIF Maker&lt;/span&gt; &lt;/a&gt;&lt;/strong&gt;permite crear GIF y vídeos animados sin necesidad de registro.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;strong&gt;&lt;img src=&quot;resources/siguiente.jpg&quot; alt=&quot;&quot; width=&quot;47&quot; height=&quot;48&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-        <int value="4"></int>
-        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-        <int value="3"></int>
-        <string role="key" value="htmlTag"></string>
-        <string value="div"></string>
-        <string role="key" value="images"></string>
-        <instance class="exe.engine.galleryidevice.GalleryImages">
-         <dictionary>
-          <string role="key" value=".listitems"></string>
-          <list>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1702"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="39_114_2.24"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="Comics.jpg"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\Comics.jpg"></string>
-               <string role="key" value="checksum"></string>
-               <string value="ad9516bc218f57ef42b7bf0158a05f7c"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="28"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1703"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="39_114_2.25"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="como-hacer-un-gif-animado-1.png"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\como-hacer-un-gif-animado-1.png"></string>
-               <string role="key" value="checksum"></string>
-               <string value="5b9b12ddb9b6982ca2e4979c6235400f"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="28"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-           <instance class="exe.engine.galleryidevice.GalleryImage">
-            <dictionary>
-             <string role="key" value="_caption"></string>
-             <instance class="exe.engine.field.TextField">
-              <dictionary>
-               <string role="key" value="_id"></string>
-               <int value="1726"></int>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_instruc"></string>
-               <string value=""></string>
-               <string role="key" value="_name"></string>
-               <string value=""></string>
-               <string role="key" value="content"></string>
-               <string value=""></string>
-               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-               <int value="4"></int>
-              </dictionary>
-             </instance>
-             <string role="key" value="_id"></string>
-             <unicode value="39_114_2.26"></unicode>
-             <string role="key" value="_imageResource"></string>
-             <instance class="exe.engine.resource.Resource">
-              <dictionary>
-               <string role="key" value="_idevice"></string>
-               <none></none>
-               <string role="key" value="_package"></string>
-               <none></none>
-               <string role="key" value="_storageName"></string>
-               <string value="siguiente.jpg"></string>
-               <string role="key" value="_userName"></string>
-               <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpz7oxnn\\siguiente.jpg"></string>
-               <string role="key" value="checksum"></string>
-               <string value="dcd9ccd58a56340eeba3b6c359feb2b6"></string>
-               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-               <int value="2"></int>
-               <string role="key" value="warningMsg"></string>
-               <string value=""></string>
-              </dictionary>
-             </instance>
-             <string role="key" value="_parent"></string>
-             <reference key="28"></reference>
-             <string role="key" value="_thumbnailResource"></string>
-             <none></none>
-             <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="makeThumbnail"></string>
-             <bool value="0"></bool>
-            </dictionary>
-           </instance>
-          </list>
-          <string role="key" value="idevice"></string>
-          <reference key="28"></reference>
-         </dictionary>
-        </instance>
-        <string role="key" value="intlinks_to_anchors"></string>
-        <dictionary></dictionary>
-        <string role="key" value="nextImageId"></string>
-        <int value="27"></int>
-        <string role="key" value="parentNode"></string>
-        <instance class="exe.engine.node.Node">
-         <dictionary>
-          <string role="key" value="_title"></string>
-          <unicode value="Generadores de mapas conceptuales, mentales, cómic, dibujos animados, avatares"></unicode>
-          <string role="key" value="idevices"></string>
-          <list></list>
-          <string role="key" value="_id"></string>
-          <unicode value="21"></unicode>
-          <string role="key" value="_package"></string>
-          <none></none>
-          <string role="key" value="anchor_fields"></string>
-          <list></list>
-          <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-          <int value="2"></int>
-          <string role="key" value="exportType"></string>
-          <string value="website"></string>
-          <string role="key" value="last_full_node_path"></string>
-          <string value="exe-node:Herramientas%20para%20presentar%20informaci%C3%B3n:Herramientas%20para%20Ilustraciones%2C%20%C3%8Dconos%2C%20Presentaciones:Generadores%20de%20mapas%20conceptuales%2C%20mentales%2C%20c%C3%B3mic%2C%20dibujos%20animados%2C%20avatares"></string>
-          <string role="key" value="parent"></string>
-          <none></none>
-          <string role="key" value="top_anchors_linked_from_fields"></string>
-          <list></list>
-          <string role="key" value="children"></string>
-          <list></list>
-         </dictionary>
-        </instance>
-       </dictionary>
-      </instance>
-     </list>
-     <string role="key" value="children"></string>
-     <list></list>
-    </dictionary>
-   </instance>
-  </list>
+  <list></list>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
@@ -3726,35 +2768,39 @@ text through the text editing buttons associated with the field."></unicode>
    </list>
    <string role="key" value="19cc4e64a7677f808059c61105d2490e"></string>
    <list>
-    <reference key="6"></reference>
+    <reference key="8"></reference>
    </list>
    <string role="key" value="438df6262b4f856b0698f987ba6d8221"></string>
    <list>
-    <reference key="13"></reference>
+    <reference key="14"></reference>
    </list>
    <string role="key" value="4ce0b8df32a164865bb120b5feb46baf"></string>
    <list>
-    <reference key="17"></reference>
+    <reference key="18"></reference>
    </list>
    <string role="key" value="5ad0b8d50e143f614269a66cbd544b85"></string>
    <list>
-    <reference key="12"></reference>
+    <reference key="13"></reference>
    </list>
    <string role="key" value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
    <list>
+    <reference key="9"></reference>
+   </list>
+   <string role="key" value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
+   <list>
     <reference key="5"></reference>
+   </list>
+   <string role="key" value="90ccb2064e94de74ca2cb64309338fbd"></string>
+   <list>
+    <reference key="22"></reference>
    </list>
    <string role="key" value="a21f8251d617c9fbf7e70a68ef5ace2b"></string>
    <list>
-    <reference key="14"></reference>
-   </list>
-   <string role="key" value="ce00ffb80c847ec0c5f994df34ce2592"></string>
-   <list>
-    <reference key="21"></reference>
+    <reference key="17"></reference>
    </list>
    <string role="key" value="d37d2bda96442a2931e7bf4417f8a6ff"></string>
    <list>
-    <reference key="25"></reference>
+    <reference key="26"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
